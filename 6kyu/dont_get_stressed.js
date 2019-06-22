@@ -18,3 +18,4 @@ var ending = word.replace(/[\d]*/g, "");
   }
   return result;
 }
+//https://www.codewars.com/kata/dont-get-stressed
