@@ -1,3 +1,4 @@
+<?php
 function snail(array $array): array {
 $result = [];
 $blocker = -1;
@@ -33,3 +34,4 @@ if(isset($array[0][0])) {
 }
 
 //for problem description: check snail.js
+?>
